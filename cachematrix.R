@@ -1,6 +1,6 @@
 ## R Programming (John Hopkins)
 ## Programming Assignment 2
-## Submited by: Anyazelie M. Zephyaire
+## Submitted by: Anyazelie M. Zephyaire
 
 makeCacheMatrix <- function(myMatrix = matrix()) {
   ## Create a special "matrix" with a list of functions to:
